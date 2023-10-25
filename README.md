@@ -1,4 +1,4 @@
-# Benchmark: `PostHog/posthog`
+# `PostHog/posthog`
 
 **Upstream:** [PostHog/posthog](https://github.com/PostHog/posthog)
 
